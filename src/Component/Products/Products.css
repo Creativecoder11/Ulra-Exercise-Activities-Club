@@ -1,0 +1,22 @@
+.card-container{
+    padding: 15px;
+    background-color: white;
+    color: black;
+    width: 300px;
+    border-radius: 5px;
+    margin: 20px;
+    
+}
+.card-container img{
+    height: 200px;
+    width: 270px;
+}
+.btn{
+    padding: 10px 95px;
+    background-color: blue;
+    color: white;
+}
+.button:hover{
+    background-color: black;
+    color: blue;
+}

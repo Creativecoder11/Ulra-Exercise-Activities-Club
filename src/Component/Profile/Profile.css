@@ -1,0 +1,23 @@
+.profile-container{
+    padding: 15px;
+}
+.weight-info{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+.break-btn{
+    text-align: center;
+    border-radius: 50%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-right: 20px;
+    background-color: blue;
+    color: white;
+}
+.exercise-details{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aliceblue;
+    color: black;
+}

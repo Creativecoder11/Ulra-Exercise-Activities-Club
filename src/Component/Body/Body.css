@@ -1,0 +1,20 @@
+.body-container{
+    background-color: #002540;
+    color: white;
+}
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.profile{
+    padding: 20px;
+    background-color: black;
+}
+.ask-question{
+    background-color: black;
+}
+@media only screen and (max-width: 575px){
+    .product-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
